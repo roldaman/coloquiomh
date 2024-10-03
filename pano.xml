@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama apprev="18080" id="node1" appversion="6.1.13">
+  <input height="3843" levelbiashidpi="1.000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3843" levelingpitch="0" leveltilesize="510" overlap="1">
+    <level height="3843" width="3843" predecode="0" preload="0"/>
+    <level height="1921" width="1921" predecode="0" preload="0"/>
+    <level height="960" width="960" predecode="0" preload="0"/>
+    <level height="480" width="480" predecode="1" preload="1"/>
+    <preview color="0x808080" strip="1"/>
+  </input>
+  <view pannorth="0" fovmode="0">
+    <start tilt="-0.04" fov="70" projection="9" pan="7.03"/>
+    <flyin tilt="-90" fov="270" projection="9" pan="8.5"/>
+    <min tilt="-90" fovpixel="2" pan="0"/>
+    <max tilt="90" fovstereographic="270" fov="70" fovfisheye="360" pan="360" scaletofit="1"/>
+  </view>
+  <userdata latitude="" title="" source="" comment="" description="" customnodeid="" author="" copyright="" tags="Coloquio" longitude="" nodeid="node1" info="" heading="0" datetime="3/10/2024 12:14 p. m."/>
+  <hotspots height="20" width="180" wordwrap="1">
+    <label height="20" background="1" textalpha="1" backgroundalpha="1" border="1" enabled="1" width="180" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" bordercolor="0x000000"/>
+    <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+    <polyhotspot id="Poly01" title="" target="_blank" description="" url="https://celesterincon.weebly.com/">
+      <polystring>-205.4/-15.7|-217.18/-15.91|-217.04/-22.22|-205.06/-22.31</polystring>
+    </polyhotspot>
+    <polyhotspot id="Poly02" title="" target="_blank" description="" url="https://ltristanchoj.wixsite.com/felipetristancho">
+      <polystring>-227.72/-15.31|-243.81/-15.65|-243.62/-22.7|-227.54/-22.79</polystring>
+    </polyhotspot>
+    <polyhotspot id="Poly03" title="" target="_blank" description="" url="">
+      <polystring>-253.16/-15.29|-266.5/-15.99|-266.61/-22.27|-252.93/-22.34</polystring>
+    </polyhotspot>
+    <polyhotspot id="Poly04" title="" target="_blank" description="" url="https://hurtadoportafoliojuan.weebly.com/">
+      <polystring>-277.6/-15.6|-290.83/-15.71|-290.5/-22.97|-277.39/-23.14</polystring>
+    </polyhotspot>
+    <polyhotspot id="Poly05" title="" target="_blank" description="" url="https://saradanielarodrigueztorres.weebly.com/">
+      <polystring>-302.59/-16.19|-314.28/-16.27|-314.9/-22.22|-301.83/-22.28</polystring>
+    </polyhotspot>
+    <polyhotspot id="Poly06" title="" target="_blank" description="" url="https://portafolio5jofajardod.weebly.com/">
+      <polystring>-326.71/-15.89|-338.71/-16.04|-339.02/-22.77|-326.79/-22.43</polystring>
+    </polyhotspot>
+    <polyhotspot id="Poly07" title="" target="_blank" description="" url="">
+      <polystring>-349.92/-15.43|-4.22/-15.74|-4.25/-22.23|-349.66/-22.43</polystring>
+    </polyhotspot>
+    <polyhotspot id="Poly08" title="" target="_blank" description="" url="https://squilindoportaunal.weebly.com/">
+      <polystring>-14.68/-15.65|-27.65/-15.95|-28.15/-22.24|-14.44/-22.2</polystring>
+    </polyhotspot>
+    <polyhotspot id="Poly09" title="" target="_blank" description="" url="https://mariaalejandramoralesarroyave.weebly.com/">
+      <polystring>-38.48/-15.31|-52.88/-15.86|-52.89/-22.08|-37.93/-21.67</polystring>
+    </polyhotspot>
+    <polyhotspot id="Poly10" title="" target="_blank" description="" url="https://johansebastianandrade.weebly.com/">
+      <polystring>-62.94/-15.96|-77.17/-16.32|-77.21/-21.77|-62.64/-21.63</polystring>
+    </polyhotspot>
+    <polyhotspot id="Poly11" title="" target="_blank" description="" url="https://sebasraigocampo.wixsite.com/portafolio-profesion">
+      <polystring>-86.09/-15.75|-101.38/-15.76|-101.44/-22.51|-85.59/-22.45</polystring>
+    </polyhotspot>
+    <polyhotspot id="Poly12" title="" target="_blank" description="" url="https://sofialoaizah.weebly.com/">
+      <polystring>-112.51/-16.1|-123.57/-16.14|-123.83/-22.25|-112.31/-22.68</polystring>
+    </polyhotspot>
+    <polyhotspot id="Poly13" title="" target="_blank" description="" url="">
+      <polystring>-136.04/-15.41|-148.21/-15.73|-147.79/-22.28|-135.97/-22.81</polystring>
+    </polyhotspot>
+    <polyhotspot id="Poly14" title="" target="_blank" description="" url="https://sites.google.com/unal.edu.co/escuela-arquitectura-manizales/formaci%C3%B3n/posgrado/maestr%C3%ADa-en-h%C3%A1bitat?authuser=1">
+      <polystring>-353.82/32.65|-36.69/32.4|-35.71/21.24|-353.8/21.2</polystring>
+    </polyhotspot>
+    <polyhotspot id="Poly15" title="" target="_blank" description="" url="https://jorgeandresosoriorueda.weebly.com/">
+      <polystring>-182.24/-15.48|-194.45/-15.73|-194.6/-22.02|-182.12/-21.79</polystring>
+    </polyhotspot>
+    <polyhotspot id="Poly16" title="" target="_blank" description="" url="">
+      <polystring>-160.23/-16.09|-172.93/-16.06|-172.88/-22.01|-160.03/-21.97</polystring>
+    </polyhotspot>
+  </hotspots>
+  <media>
+    <image height="2362" clickmode="1" id="Element01" handcursor="1" tilt="-3.200" rotx="0.000" width="1653" roty="0.000" stretch="1.000" rotz="0.000" fov="15.820" pan="-69.690">
+      <source url="media/10 Johan.jpg"/>
+    </image>
+    <image height="2381" clickmode="1" id="Element02" handcursor="1" tilt="-3.270" rotx="0.000" width="1665" roty="0.000" stretch="1.000" rotz="0.000" fov="15.820" pan="-93.850">
+      <source url="media/11 Raigoza.jpg"/>
+    </image>
+    <image height="2362" clickmode="1" id="Element03" handcursor="1" tilt="-3.040" rotx="0.000" width="1653" roty="0.000" stretch="1.000" rotz="0.000" fov="15.590" pan="-118.100">
+      <source url="media/12 Sofia.jpg"/>
+    </image>
+    <image height="2362" clickmode="1" id="Element04" handcursor="1" tilt="-3.140" rotx="0.000" width="1653" roty="0.000" stretch="1.000" rotz="0.000" fov="15.590" pan="-142.440">
+      <source url="media/13 Luisa.jpg"/>
+    </image>
+    <image height="2362" clickmode="1" id="Element05" handcursor="1" tilt="-3.090" rotx="0.000" width="1653" roty="0.000" stretch="1.000" rotz="0.000" fov="15.590" pan="-45.430">
+      <source url="media/9 Aleja.jpg"/>
+    </image>
+    <image height="2362" clickmode="1" id="Element06" handcursor="1" tilt="-3.100" rotx="0.000" width="1653" roty="0.000" stretch="1.000" rotz="0.000" fov="15.870" pan="-21.080">
+      <source url="media/8 QUILINDO.jpg"/>
+    </image>
+    <image height="2362" clickmode="1" id="Element07" handcursor="1" tilt="-2.920" rotx="0.000" width="1653" roty="0.000" stretch="1.000" rotz="0.000" fov="15.870" pan="-356.800">
+      <source url="media/7 Varela.jpg"/>
+    </image>
+    <image height="2362" clickmode="1" id="Element08" handcursor="1" tilt="-3.040" rotx="0.000" width="1653" roty="0.000" stretch="1.000" rotz="0.000" fov="15.590" pan="-332.690">
+      <source url="media/6 Adrián.jpg"/>
+    </image>
+    <image height="2362" clickmode="1" id="Element09" handcursor="1" tilt="-3.030" rotx="0.000" width="1653" roty="0.000" stretch="1.000" rotz="0.000" fov="15.590" pan="-308.450">
+      <source url="media/5 Sara.jpg"/>
+    </image>
+    <image height="2362" clickmode="1" id="Element10" handcursor="1" tilt="-3.160" rotx="0.000" width="1653" roty="0.000" stretch="1.000" rotz="0.000" fov="15.590" pan="-284.250">
+      <source url="media/4 Juan Felipe.jpg"/>
+    </image>
+    <image height="2362" clickmode="1" id="Element11" handcursor="1" tilt="-3.160" rotx="0.000" width="1653" roty="0.000" stretch="1.000" rotz="0.000" fov="15.590" pan="-260.000">
+      <source url="media/3 Javier.jpg"/>
+    </image>
+    <image height="2362" clickmode="1" id="Element12" handcursor="1" tilt="-2.990" rotx="0.000" width="1653" roty="0.000" stretch="1.000" rotz="0.000" fov="15.590" pan="-235.800">
+      <source url="media/2 Tristancho.jpg"/>
+    </image>
+    <image height="2362" clickmode="1" id="Element13" handcursor="1" tilt="-3.080" rotx="0.000" width="1653" roty="0.000" stretch="1.000" rotz="0.000" fov="15.590" pan="-211.600">
+      <source url="media/1 Celeste.jpg"/>
+    </image>
+    <image height="2362" clickmode="1" id="Element14" handcursor="1" tilt="-3.060" rotx="0.000" width="1653" roty="0.000" stretch="1.000" rotz="0.000" fov="15.870" pan="-166.410">
+      <source url="media/15 Arianna.jpg"/>
+    </image>
+    <image height="2362" clickmode="1" id="Element15" handcursor="1" tilt="-3.310" rotx="0.000" width="1653" roty="0.000" stretch="1.000" rotz="0.000" fov="15.870" pan="-188.810">
+      <source url="media/14 jorge.jpg"/>
+    </image>
+  </media>
+  <transition blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomout="0" enabled="1" softedge="0" zoomoutpause="1" zoomafterinfov="90" blendtime="1" zoomin="0" zoomspeed="2" zoomafteroutfov="20"/>
+  <flyintransition enabled="1" speed="2.00"/>
+  <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
+  <control simulatemass="1" invertcontrol="1" speedwheel="1" invertwheel="0" contextvr="1" lockedmouse="0" sensitivity="8" lockedkeyboard="0" hideabout="0" lockedkeyboardzoom="0" lockedwheel="0" contextprojections="0" rubberband="0" dblclickfullscreen="0" contextfullscreen="1"/>
+</panorama>
